@@ -1,0 +1,15 @@
+{
+    "name": "aenglander/asynchronous-programming-in-php",
+    "description": "Example code for the talk Asynchronous Programming in PHP",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adam Englander",
+            "email": "adamenglander@yahoo.com"
+        }
+    ],
+    "require": {
+        "icicleio/icicle": "^0.9.6"
+    }
+}
